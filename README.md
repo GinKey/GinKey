@@ -2,6 +2,8 @@
 
 ### Какие слова встречаются в моем коде больше всего!
 
+<script src="https://gist.github.com/GinKey/0783b31a52c1bc888af8c8b60cd9afa4.js"></script>
+
 <!--
 **GinKey/GinKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
