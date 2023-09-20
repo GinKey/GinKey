@@ -1,7 +1,9 @@
 
 ### Какие слова встречаются в моем коде больше всего!
 
-![Word Cloud](https://github.com/GinKey/GinKey/blob/main/word.png)
+<div align="center">
+  <img src="https://github.com/GinKey/GinKey/blob/main/word.png" alt="Word Cloud">
+</div>
 
 
 <!--
