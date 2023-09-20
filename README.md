@@ -1,4 +1,6 @@
-### Hi there 👋
+#### Я - .- -. -.. .-. . .---!
+
+### Какие слова встречаются в моем коде больше всего!
 
 <!--
 **GinKey/GinKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
