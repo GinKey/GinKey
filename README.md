@@ -1,7 +1,7 @@
 
 ### Какие слова встречаются в моем коде больше всего!
 
-![Word Cloud](https://github.com/GinKey/GinKey/blob/main/words.png)
+![Word Cloud](https://github.com/GinKey/GinKey/blob/main/word.png)
 
 
 <!--
