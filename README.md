@@ -1,10 +1,3 @@
-
-
-body {
-  background-color: black;
-  color: white;
-}
-
 <div align="center">
   <p>Какие слова встречаются в моем коде больше всего!</p>
   <img src="https://github.com/GinKey/GinKey/blob/main/word.png" alt="Word Cloud">
