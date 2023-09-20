@@ -2,7 +2,7 @@
 
 ### Какие слова встречаются в моем коде больше всего!
 
-![Word Cloud](https://github.com/your_username/your_repository/raw/main/wordcloud_image.png)
+![Word Cloud](https://github.com/GinKey/word.png)
 
 
 <!--
