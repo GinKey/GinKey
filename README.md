@@ -3,6 +3,10 @@
   <img src="https://github.com/GinKey/GinKey/blob/main/word.png" alt="Word Cloud">
 </div>
 
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N)" width="100"/>
+</div>
 <!--
 **GinKey/GinKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
